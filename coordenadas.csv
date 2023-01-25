@@ -1,0 +1,54 @@
+Nome da rua,Faixas,Tipo,X,Y
+Av. Brigadeiro Eduardo Gomes n.0265,2,Radar Fixo,-22210868,-499373
+Av. Brigadeiro Eduardo Gomes n.1000 próximo ao bosque municipal,4,Radar Fixo,-22205448,-49933831
+Av. Brigadeiro Eduardo Gomes n.1839 próximo à entrada do aeroporto,2,Radar Fixo,-22193966,-49929604
+Av. Cascata prox. ao Lago,2,Radar Fixo,-22213521,-49926464
+Av. Cascata sentido O/L,2,Radar Fixo,-22213313,-49931567
+Av. Cascata sentido O/L,2,Radar Fixo,-22215287,-49920322
+Av. Esmeralda prox. colégio criativo L_O,2,Radar Fixo,-22228674,-49923324
+Av. Esmeralda prox. colégio criativo O_L,2,Radar Fixo,-22228237,-49926218
+Av. Esmeraldas n.701 prox. Shop. Esmeraldas,2,Radar Fixo,-22224265,-49933731
+Av. Sampaio Vidal - Viaduto N_S,2,Radar Fixo,-22228026,-49945899
+Av. Sampaio Vidal n.1181 NO_SE,2,Radar Fixo,-22212531,-49950711
+Av. Sampaio Vidal n.1181 SE_NO,2,Radar Fixo,-22212531,-49950711
+Av. Sampaio Vidal n.1639 NO_SE,2,Radar Fixo,-22235845,-49939929
+Av. Sampaio Vidal n.2085A,2,Radar Fixo,-22240367,-49936738
+Av. Sampaio Vidal SE_NO,2,Radar Fixo,-22236856,-49938472
+Av. Sanches Cibantos frente ao Atacadão SE/NO e NO/SE,4,Radar Fixo,-22179759,-49968704
+Av. Sanches Cibantos N.1606 prox confiança aquarius,4,Radar Fixo,-22190342,-4995985
+Av. Santo Antônio n.1072,2,Radar Fixo Não Intrusivo,-22215098,-49954451
+Av. Santo Antônio n.1465 NO_SE,2,Radar Fixo,-22211543,-49955878
+Av. Tiradentes n.580 justiça do trabalho NO_SE,2,Radar Fixo,-22222059,-49938842
+Av. Castro Alves n.1135,2,Lombada Eletrônica,-22199131,-49957763
+Av. Rio Branco em frente E.E Bicudo Monsenhor L_O,2,Lombada Eletrônica,-22222647,-49955411
+Av. Rio Branco em frente E.E Bicudo Monsenhor O_L,2,Lombada Eletrônica,-22223114,-49956128
+Av. Castro Alves x Av. Manoel Muller,3,Radar híbrido,-22192171,-4995927
+Av. Paraná x Av. Pedro Toledo SO_NE,2,Radar híbrido,-22212453,-49947569
+Av. Pedro Toledo x Av. Paraná SE_NO,2,Radar híbrido,-22212471,-49947233
+Av. República n.1573 NO_SE,2,Radar híbrido,-22208103,-49949395
+Av. República n.3577 NO_SE,2,Radar híbrido,-22191975,-49958338
+Av. Rio Branco x Av. Sampaio Vidal O_L,2,Radar híbrido,-22220403,-49948334
+Av. Rio Branco X Av. Santo Antônio n.360 L_O,2,Radar híbrido,-22221475,-49951733
+Av. Rio Branco X Av. Santo Antônio O_L,2,Radar híbrido,-22221652,-49952105
+Av. Sampaio Vidal - Viaduto L_O e O_L,4,Radar híbrido,-22229648,-49944166
+Av. Sampaio Vidal x Av. Rio Branco N_S,2,Radar híbrido,-22220049,-4994816
+Av. Sampaio Vidal x Rua Bandeirantes S_N,2,Radar híbrido,-2222051,-49947985
+Av. Sanches Cibanto prox. Hotel Travel Inn NO_SE,2,Radar híbrido,-22182928,-49963418
+Av. Sanches Cibanto prox. Hotel Travel Inn SE_NO,3,Radar híbrido,-22183306,-4996296
+Av. Sanches Cibantos x Av. Manoel Muller N_S,2,Radar híbrido,-22191411,-49959479
+Av. Santo Antônio x Av. Borba Gato n.2612 SE_NO,2,Radar híbrido,-22202078,-49959531
+Av. Santo Antônio x Av. Borba Gato n.2648 NO_SE,2,Radar híbrido,-22201468,-49959886
+Av. Santo Antônio x Av. Paes Lemes n.758 N_S,2,Radar híbrido,-22217439,-49953508
+Av. Santo Antônio x Av. Paes Lemes n.830 N_S,2,Radar híbrido,-22217027,-49953732
+Av. Santo Antônio x Av. Rio Branco n.260 S_N,2,Radar híbrido,-22221791,-49951805
+Av. Santo Antônio x Av. Rio Branco n.325 N_S,2,Radar híbrido,-22221369,-49952012
+Av. Tiradentes próximo ao n 1487,1,PTZ,-22229298,-49931023
+Av. das Esmeraldas próximo ao n 1201,1,PTZ,-22226255,-49930255
+Av. Tiradentes próximo ao n 236,1,PTZ,-22220966,-49940933
+Av. Sampaio Vidal próximo ao n 245,1,PTZ,-22220271,-49948173
+Av. Vicente Ferreira próximo ao n 1003,1,PTZ,-22211620,-49939105
+Av. Tiradentes próximo ao n 1156,1,PTZ,-22226105,-49934169
+Av. Sampaio Vidal próximo ao n 515,1,PTZ,-22218433,-49948590
+Rua Maranhão próximo ao n 242,1,PTZ,-22217977,-49945786
+Av. Castro Alves próximo ao n 767,1,PTZ,-22202128,-49956492
+Av. João Ramalho próximo ao n 650,1,PTZ,-22235350,-49928651
