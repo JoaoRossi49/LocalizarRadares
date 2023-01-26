@@ -1,22 +1,17 @@
-import geopandas as gpd
-from  shapely.geometry import Point, Polygon
 import pandas as pd
 import folium
 
-radaresCoord = pd.read_csv('./coordenadas.csv', encoding='ansi')
+Coordenadas = pd.read_csv(r"LocalizarRadares\coordenadas.csv", encoding='ansi')
 
 
-pontos_geo = []
-for xy in zip(radaresCoord['X'], radaresCoord['Y']):
-    pontos_geo.append(Point(xy))
+center = [-22.210868, -49.9373]
+map_kenya = folium.Map(location=center, zoom_start=20)
 
 
-localizacoes_geo = gpd.GeoDataFrame(radaresCoord,
-                                    crs = {'init': 'epsg:4326'},
-                                    geometry = pontos_geo)
+for index, Coordenadas in Coordenadas.iterrows():
+    local = [Coordenadas['X'],Coordenadas['Y']]
+    folium.Marker(local, popup=f'Tipo do Radar: {Coordenadas["Tipo"]}').add_to(map_kenya)
+    
 
-fig = folium.Map(width=900, height=600)
-
-pontos = localizacoes_geo[['X', 'Y']].values.tolist()
-for point in range(0, len(pontos)):
-    folium.Marker(locationlist[point]).add_to(fig)
+#Salva mapa com pontos em formato html
+map_kenya.save('Mapa.html')
